@@ -1,16 +1,14 @@
-# imc
+# IMC
 
 A new Flutter project.
 
-## Getting Started
+## CALCULANDO IMC EM DART
 
-This project is a starting point for a Flutter application.
+O projeto em Dart feito para calcular o Índice de Massa Corporal (IMC).
+O IMC é uma medida internacionalmente reconhecida usada para avaliar se uma pessoa está em um peso saudável para sua altura.
 
-A few resources to get you started if this is your first Flutter project:
+Foi criada uma aplicação simples e eficiente. O usuário insere seu peso (em quilogramas) e altura (em metros), e o programa calcula o IMC usando a fórmula IMC = peso / (altura * altura).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+O resultado é então categorizado de acordo com os padrões da Organização Mundial da Saúde, que ajudam a identificar se o usuário está abaixo do peso, com peso normal, com sobrepeso ou obeso.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Criação de uma ferramenta útil para promover a conscientização sobre a saúde e o bem-estar.
